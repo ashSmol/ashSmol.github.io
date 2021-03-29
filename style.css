@@ -440,6 +440,9 @@ h1{
         width: 100%;
         text-align: center;
     }
+    .footer__heading__text{
+        text-align: center;
+    }
     .footer__top__container{
         flex-direction: column;
         justify-content: space-around;
